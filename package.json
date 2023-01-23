@@ -1,0 +1,6 @@
+{
+    "homepage": "https://pandemicpastoring.org",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
