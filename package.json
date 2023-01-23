@@ -1,5 +1,5 @@
 {
-    "homepage": "https://pandemicpastoring.org",
+    "homepage": "http://stateofclergywomen.org/",
     "scripts": {
       "shorten": "netlify-shortener"
     }
